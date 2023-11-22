@@ -5,7 +5,9 @@
 ### 📁 Mis Repositorios
 
 1. **Trabajos del SenaJava**
-   - Repositorio: [https://github.com/AndresPJ09/SenaJava.git](https://github.com/AndresPJ09/SenaJava.git) 🌱
+   - Repositorio: [https://github.com/AndresPJ09/SenaJava.git](https://github.com/AndresPJ09/SenaJava.git) 💻
 
 2. **Trabajo del Cuarto Trimestre**
-   - Repositorio: [https://github.com/AndresPJ09/Cuarto_Trimestre.git](https://github.com/AndresPJ09/Cuarto_Trimestre.git) 🚀 Explora mis proyectos y únete a este emocionante viaje de desarrollo! 🌐
+   - Repositorio: [https://github.com/AndresPJ09/Cuarto_Trimestre.git](https://github.com/AndresPJ09/Cuarto_Trimestre.git) 🚀
+     
+     Explora mis proyectos y únete a este emocionante viaje de desarrollo! 🌐
