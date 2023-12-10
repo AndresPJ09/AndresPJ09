@@ -9,5 +9,8 @@
 
 2. **Trabajo del Cuarto Trimestre**
    - Repositorio: [https://github.com/AndresPJ09/Cuarto_Trimestre.git](https://github.com/AndresPJ09/Cuarto_Trimestre.git) 🚀
-     
-     Explora mis proyectos y únete a este emocionante viaje de desarrollo! 🌐
+
+3. **Proyecto Monolito Tienda de Manolo**
+   - Repositorio: [https://github.com/jhonnCorredor/Monolito-Tienda-de-Manolo.git](https://github.com/jhonnCorredor/Monolito-Tienda-de-Manolo.git) 🌐
+
+   Explora mis proyectos y únete a este emocionante viaje de desarrollo! 🌐
